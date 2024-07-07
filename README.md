@@ -2,7 +2,7 @@
 
 Desafio Cientista de Dados Insidium Lighthouse
 
-## **Bibliotecas Utilizadas**
+## Bibliotecas Utilizadas
 
 - **pandas**: Manipulação e análise de dados tabulares.
 - **matplotlib.pyplot**: Criação de visualizações de dados estáticas.
@@ -15,4 +15,4 @@ Desafio Cientista de Dados Insidium Lighthouse
 
 ### 1.Introdução
 
--Para ajudar a PProductions a decidir qual tipo de filme desenvolver a seguir, vou seguir uma abordagem estruturada, conforme descrito anteriormente, com um foco especial em fatores que influenciam o sucesso de filmes.
+- Para ajudar a PProductions a decidir qual tipo de filme desenvolver a seguir, vou seguir uma abordagem estruturada, conforme descrito anteriormente, com um foco especial em fatores que influenciam o sucesso de filmes.
