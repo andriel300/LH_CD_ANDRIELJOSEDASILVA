@@ -16,3 +16,11 @@ Desafio Cientista de Dados Insidium Lighthouse
 ### 1.Introdução
 
 - Para ajudar a PProductions a decidir qual tipo de filme desenvolver a seguir, vou seguir uma abordagem estruturada, conforme descrito anteriormente, com um foco especial em fatores que influenciam o sucesso de filmes.
+
+- **Objetivo**: Identificar os fatores que contribuem para o sucesso de um filme e recomendar o tipo de filme que a PProductions deve desenvolver a seguir.
+
+Métricas de Sucesso:
+
+    Receita de bilheteria.
+    Avaliações da crítica (Metacritic).
+    Avaliações do público (IMDb).
