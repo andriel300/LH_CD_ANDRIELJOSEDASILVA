@@ -27,11 +27,25 @@ Desafio Cientista de Dados Insidium Lighthouse
 
 **Instalação:**
 
-1. Instale as dependências do projeto usando pip:
+1. Clone o repositório do projeto:
 
 ```bash
-pip install -r requirements.txt
+    git clone https://github.com/andriel300/desafio-ds-imdb-diel.git
 ```
+
+2. Navegue até a pasta do projeto clonado:
+
+```bash
+    cd desafio-ds-imdb-diel
+```
+
+3. Instale as dependências do projeto:
+
+```bash
+    pip install -r requirements.txt
+```
+
+ou utilize GitHub Desktop para clonar meu projeto.
 
 ### 1.Introdução
 
