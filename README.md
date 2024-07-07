@@ -13,6 +13,26 @@ Desafio Cientista de Dados Insidium Lighthouse
 - **sklearn.linear_model**: Implementação de modelos de regressão linear.
 - **sklearn.metrics**: Cálculo de métricas de desempenho do modelo (MSE, R2).
 
+## Instalação e Execução
+
+**Pré-requisitos:**
+
+- Python 3.8 ou superior
+- Pip (gerenciador de pacotes Python)
+- Bibliotecas:
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+**Instalação:**
+
+1. Instale as dependências do projeto usando pip:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 1.Introdução
 
 - Para ajudar a PProductions a decidir qual tipo de filme desenvolver a seguir, vou seguir uma abordagem estruturada, conforme descrito anteriormente, com um foco especial em fatores que influenciam o sucesso de filmes.
