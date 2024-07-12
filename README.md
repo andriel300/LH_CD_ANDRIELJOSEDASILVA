@@ -36,7 +36,7 @@ Desafio Cientista de Dados Insidium Lighthouse
 2. Navegue até a pasta do projeto clonado:
 
 ```bash
-    cd desafio-ds-imdb-diel
+    cd LH_CD_ANDRIELJOSEDASILVA
 ```
 
 3. Criando ambientes virtuais (Opcional):
