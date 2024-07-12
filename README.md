@@ -39,7 +39,14 @@ Desafio Cientista de Dados Insidium Lighthouse
     cd desafio-ds-imdb-diel
 ```
 
-3. Instale as dependências do projeto:
+3. Criando ambientes virtuais (Opcional):
+
+```shell
+    python -m venv qualquernome-env
+    qualquernome-env\Scripts\activate
+```
+
+4. Instale as dependências do projeto:
 
 ```bash
     pip install -r requirements.txt
