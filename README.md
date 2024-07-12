@@ -30,7 +30,7 @@ Desafio Cientista de Dados Insidium Lighthouse
 1. Clone o repositório do projeto:
 
 ```bash
-    git clone https://github.com/andriel300/desafio-ds-imdb-diel.git
+    git clone https://github.com/andriel300/LH_CD_ANDRIELJOSEDASILVA.git
 ```
 
 2. Navegue até a pasta do projeto clonado:
