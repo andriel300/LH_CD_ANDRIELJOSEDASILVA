@@ -43,13 +43,15 @@ Desafio Cientista de Dados Insidium Lighthouse
 
 ```shell
     python -m venv qualquernome-env
-    qualquernome-env\Scripts\activate
+    cd qualquernome-env\Scripts\activate
 ```
 
 4. Instale as dependências do projeto:
 
 ```bash
     pip install -r requirements.txt
+    # se nao funcionar utilize abaixo
+    pip install pandas matplotlib seaborn scikit-learn numpy
 ```
 
 ou utilize GitHub Desktop para clonar meu projeto.
